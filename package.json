@@ -10,6 +10,7 @@
      "packages/*"
   ],
   "publishConfig": {
+    "access": "restricted",
     "registry": "http://localhost:4873/"
   },
   "scripts": {	
