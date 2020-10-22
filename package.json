@@ -6,8 +6,11 @@
   "devDependencies": {
     "lerna": "^3.22.1"
   },
+  "workspaces": [
+     "packages/*"
+  ],
   "publishConfig": {
-    "access": "public"
+    "registry": "http://localhost:4873/"
   },
   "scripts": {	
     "precommit": "git add .",

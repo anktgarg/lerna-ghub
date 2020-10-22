@@ -1,1 +1,1 @@
-kjThis is core
+gkjThis is core
