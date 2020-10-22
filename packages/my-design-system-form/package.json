@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@mytest/my-design-system-button": "^2.1.0",
     "react": "^16.14.0"
   },
   "gitHead": "be4acb11205a6eaf6fd02dc4b32babf001f3294e"
