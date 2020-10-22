@@ -1,0 +1,11 @@
+{
+  "name": "lerna-ghub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/anktgarg/lerna-ghub.git",
+  "author": "Ankit Garg <myemail@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
