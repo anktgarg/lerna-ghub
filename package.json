@@ -9,6 +9,9 @@
   "workspaces": [ 
     "packages/*"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {	
     "precommit": "git add .",
     "commit": "git commit -m 't'",
