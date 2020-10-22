@@ -5,5 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "react": "^16.14.0"
-  }
+  },
+  "gitHead": "105aec6a657d3ba4f7e1f432c26a23dd13dbbdbe"
 }
