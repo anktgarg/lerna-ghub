@@ -3,16 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "private": true,
   "devDependencies": {
     "lerna": "^3.22.1"
   },
   "workspaces": [
      "packages/*"
   ],
-  "publishConfig": {
-    "access": "restricted",
-    "registry": "http://localhost:4873/"
-  },
   "scripts": {	
     "precommit": "git add .",
     "commit": "git commit -m 't'",
